@@ -1,9 +1,11 @@
-<manifest alg="2" build="2017.0.4.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="g3.sq" resolutions="1x" timestamp="1641909782171">
+<manifest alg="2" build="2017.0.4.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="g3.sq" resolutions="1x" timestamp="1642179600720">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
-    <file name="master_______-a.css" crc="3991728654" ref="index:g3---all-members"/>
-    <file name="index.css" crc="4213552556" ref="index"/>
-    <file name="g3---all-members.css" crc="3911626633" ref="g3---all-members"/>
+    <file name="master_______-a.css" crc="391776139" ref="index:g3---all-members:g3-about:g3---присоединиться"/>
+    <file name="index.css" crc="3864988721" ref="index"/>
+    <file name="g3---all-members.css" crc="4026102267" ref="g3---all-members"/>
+    <file name="g3-about.css" crc="4270385061" ref="g3-about"/>
+    <file name="g3---______________.css" crc="216903371" ref="g3---присоединиться"/>
   </folder>
   <folder name="fonts">
     <file name="amdrtg.woff" crc="131856772"/>
@@ -13,13 +15,13 @@
     <file name="ttcommons-bold.eot" crc="4117541410"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:g3---all-members"/>
-    <file name="museutils.js" crc="4216313831" ref="index:g3---all-members"/>
-    <file name="whatinput.js" crc="86476730" ref="index:g3---all-members"/>
-    <file name="museconfig.js" crc="474374037" ref="index:g3---all-members"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="4110862005" ref="index:g3---all-members"/>
-    <file name="jquery.watch.js" crc="460461809" ref="index:g3---all-members"/>
-    <file name="require.js" crc="3951022091" ref="index:g3---all-members"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:g3---all-members:g3-about:g3---присоединиться"/>
+    <file name="museutils.js" crc="4216313831" ref="index:g3---all-members:g3-about:g3---присоединиться"/>
+    <file name="whatinput.js" crc="86476730" ref="index:g3---all-members:g3-about:g3---присоединиться"/>
+    <file name="museconfig.js" crc="474374037" ref="index:g3---all-members:g3-about:g3---присоединиться"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4110862005" ref="index:g3---all-members:g3-about:g3---присоединиться"/>
+    <file name="jquery.watch.js" crc="460461809" ref="index:g3---all-members:g3-about:g3---присоединиться"/>
+    <file name="require.js" crc="3951022091" ref="index:g3---all-members:g3-about:g3---присоединиться"/>
   </folder>
   <folder name="images">
     <file name="шаблон-a-favicon.ico" crc="6333720" ref="index"/>
@@ -27,11 +29,11 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="gradient-grainy-gradient-texture-wallpaper_52683-63423.jpg" crc="43242635" ref="index">
+    <file name="gradient-grainy-gradient-texture-wallpaper_52683-63423.jpg" crc="43242635" ref="index:g3---присоединиться">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="1582033937_roy-lichtenstein_vsthemes_ru-11-u181-fr.png" crc="3983881215" ref="index:g3---all-members"/>
-    <file name="gradient-grainy-gradient-texture-wallpaper_52683-63423-u198-fr.png" crc="79753781" ref="index:g3---all-members"/>
+    <file name="1582033937_roy-lichtenstein_vsthemes_ru-11-u181-fr.png" crc="3983881215" ref="index:g3---all-members:g3---присоединиться"/>
+    <file name="gradient-grainy-gradient-texture-wallpaper_52683-63423-u198-fr.png" crc="79753781" ref="index:g3---all-members:g3---присоединиться"/>
     <file name="aaaaaaaa.png" crc="4229482758" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -44,11 +46,14 @@
       <caption webpage="g3---all-members" alt=""/>
       <caption webpage="g3---all-members" alt=""/>
       <caption webpage="g3---all-members" alt=""/>
+      <caption webpage="g3---all-members" alt=""/>
     </file>
-    <file name="без wwwwww1.jpg" crc="61367014" ref="g3---all-members">
+    <file name="без wwwwww1.jpg" crc="61367014" ref="g3-about">
+      <caption webpage="g3-about" alt=""/>
       <caption webpage="g3---all-members" alt=""/>
     </file>
     <file name="youtube_full-color_icon_(2017)svg.png" crc="498741739" ref="g3---all-members">
+      <caption webpage="g3---all-members" alt=""/>
       <caption webpage="g3---all-members" alt=""/>
       <caption webpage="g3---all-members" alt=""/>
       <caption webpage="g3---all-members" alt=""/>
@@ -56,16 +61,33 @@
     <file name="black.png" crc="370666776" ref="g3---all-members">
       <caption webpage="g3---all-members" alt=""/>
     </file>
-    <file name="пкапрпрпрпр.png" crc="4116187735" ref="g3---all-members">
+    <file name="unnamed.jpg" crc="291690102" ref="g3---all-members:g3-about">
       <caption webpage="g3---all-members" alt=""/>
     </file>
-    <file name="unnamed.jpg" crc="291690102" ref="g3---all-members">
+    <file name="gradient-grainy-gradient-texture_79603-1642.jpg" crc="74230716" ref="g3-about">
+      <caption webpage="g3-about" alt=""/>
       <caption webpage="g3---all-members" alt=""/>
     </file>
-    <file name="gradient-grainy-gradient-texture_79603-1642.jpg" crc="4052298618" ref="g3---all-members">
+    <file name="unnamed (1).jpg" crc="4174733309" ref="g3---all-members">
       <caption webpage="g3---all-members" alt=""/>
+    </file>
+    <file name="yaysyaysysyays1.jpg" crc="4137219588" ref="g3---all-members:g3-about">
+      <caption webpage="g3-about" alt=""/>
+      <caption webpage="g3---all-members" alt=""/>
+    </file>
+    <file name="unnam1ed.jpg" crc="4047686010" ref="g3---all-members">
+      <caption webpage="g3---all-members" alt=""/>
+    </file>
+    <file name="gradient-grainy-gradient-texture_79603-1642-u388-fr.jpg" crc="202141719" ref="g3---all-members"/>
+    <file name="1582033937_roy-lichtenstein_vsthemes_ru-11.jpg" crc="3977334541" ref="g3-about">
+      <caption webpage="g3-about" alt=""/>
+    </file>
+    <file name="sprite_fon1.png" crc="26049308" ref="g3-about">
+      <caption webpage="g3-about" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="402658014" seo="true" mt="1641909778850" redirect="true"/>
-  <file name="g3---all-members.html" crc="491673547" seo="true" mt="1641909779053" redirect="true"/>
+  <file name="index.html" crc="3818025064" seo="true" mt="1641921908021" redirect="true"/>
+  <file name="g3---all-members.html" crc="3997953859" seo="true" mt="1642179597098" redirect="true"/>
+  <file name="g3-about.html" crc="4019316281" seo="true" mt="1642179597060" redirect="true"/>
+  <file name="g3---присоединиться.html" crc="3828931179" seo="true" mt="1642179469427" redirect="true"/>
 </manifest>
