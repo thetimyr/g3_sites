@@ -1,9 +1,9 @@
-<manifest alg="2" build="2017.0.4.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="g3.sq" resolutions="1x" timestamp="1642182037383">
+<manifest alg="2" build="2017.0.4.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="g3.sq" resolutions="1x" timestamp="1642182159687">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
     <file name="master_______-a.css" crc="391776139" ref="index:g3---all-members:g3-about:g3---присоединиться:g3-project"/>
     <file name="index.css" crc="192429453" ref="index"/>
-    <file name="g3---all-members.css" crc="4026102267" ref="g3---all-members"/>
+    <file name="g3---all-members.css" crc="2501272" ref="g3---all-members"/>
     <file name="g3-about.css" crc="232165922" ref="g3-about"/>
     <file name="g3---______________.css" crc="300332842" ref="g3---присоединиться"/>
     <file name="g3-project.css" crc="4243139713" ref="g3-project"/>
@@ -25,18 +25,20 @@
     <file name="require.js" crc="3951022091" ref="index:g3---all-members:g3-about:g3---присоединиться:g3-project"/>
   </folder>
   <folder name="images">
-    <file name="шаблон-a-favicon.ico" crc="6333720" ref="index"/>
-    <file name="фывфывфывфывфваааа.png" crc="3818316378" ref="index">
+    <file name="шаблон-a-favicon.ico" crc="6333720" ref="index:g3---all-members"/>
+    <file name="фывфывфывфывфваааа.png" crc="3818316378" ref="index:g3---all-members">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="g3-about" alt=""/>
       <caption webpage="g3-about" alt=""/>
+      <caption webpage="g3---all-members" alt=""/>
+      <caption webpage="g3---all-members" alt=""/>
     </file>
     <file name="gradient-grainy-gradient-texture-wallpaper_52683-63423.jpg" crc="43242635" ref="index:g3---присоединиться">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="1582033937_roy-lichtenstein_vsthemes_ru-11-u181-fr.png" crc="3983881215" ref="index:g3---all-members:g3---присоединиться"/>
-    <file name="gradient-grainy-gradient-texture-wallpaper_52683-63423-u198-fr.png" crc="79753781" ref="index:g3---all-members:g3---присоединиться"/>
+    <file name="1582033937_roy-lichtenstein_vsthemes_ru-11-u181-fr.png" crc="3983881215" ref="index:g3---присоединиться"/>
+    <file name="gradient-grainy-gradient-texture-wallpaper_52683-63423-u198-fr.png" crc="79753781" ref="index:g3---присоединиться"/>
     <file name="aaaaaaaa.png" crc="4229482758" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -90,9 +92,11 @@
     <file name="unknown.png" crc="343610700" ref="g3-project">
       <caption webpage="g3-project" alt=""/>
     </file>
+    <file name="1582033937_roy-lichtenstein_vsthemes_ru-11-u293-fr.png" crc="3983881215" ref="g3---all-members"/>
+    <file name="gradient-grainy-gradient-texture-wallpaper_52683-63423-u294-fr.png" crc="79753781" ref="g3---all-members"/>
   </folder>
   <file name="index.html" crc="417411162" seo="true" mt="1642182032855" redirect="true"/>
-  <file name="g3---all-members.html" crc="269379348" seo="true" mt="1642182026966" redirect="true"/>
+  <file name="g3---all-members.html" crc="3986950577" seo="true" mt="1642182146415" redirect="true"/>
   <file name="g3-about.html" crc="3994169623" seo="true" mt="1642182026966" redirect="true"/>
   <file name="g3---присоединиться.html" crc="4048889689" seo="true" mt="1642182026966" redirect="true"/>
   <file name="g3-project.html" crc="3779630031" seo="true" mt="1642182032853" redirect="true"/>
