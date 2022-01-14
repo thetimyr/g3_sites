@@ -1,10 +1,10 @@
-<manifest alg="2" build="2017.0.4.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="g3.sq" resolutions="1x" timestamp="1642180802760">
+<manifest alg="2" build="2017.0.4.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="g3.sq" resolutions="1x" timestamp="1642180844260">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
     <file name="master_______-a.css" crc="391776139" ref="index:g3---all-members:g3-about:g3---присоединиться"/>
     <file name="index.css" crc="3864988721" ref="index"/>
     <file name="g3---all-members.css" crc="4026102267" ref="g3---all-members"/>
-    <file name="g3-about.css" crc="383272861" ref="g3-about"/>
+    <file name="g3-about.css" crc="232165922" ref="g3-about"/>
     <file name="g3---______________.css" crc="300332842" ref="g3---присоединиться"/>
   </folder>
   <folder name="fonts">
@@ -91,6 +91,6 @@
   </folder>
   <file name="index.html" crc="4144389049" seo="true" mt="1642179617521" redirect="true"/>
   <file name="g3---all-members.html" crc="3997953859" seo="true" mt="1642179597098" redirect="true"/>
-  <file name="g3-about.html" crc="4232903660" seo="true" mt="1642180791989" redirect="true"/>
+  <file name="g3-about.html" crc="231441999" seo="true" mt="1642180837309" redirect="true"/>
   <file name="g3---присоединиться.html" crc="230911192" seo="true" mt="1642179750799" redirect="true"/>
 </manifest>
