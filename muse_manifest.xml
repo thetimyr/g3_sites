@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.0.4.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="g3.sq" resolutions="1x" timestamp="1652119197705">
+<manifest alg="2" build="2017.0.4.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="g3.sq" resolutions="1x" timestamp="1652120499044">
   <folder name="assets">
     <file name="без-имени.png" crc="480723689" seo="true" mt="1652118222000"/>
     <file name="без-имени1.png" crc="127700429" seo="true" mt="1652118507000"/>
@@ -7,7 +7,7 @@
     <file name="site_global.css" crc="443350757"/>
     <file name="master_______-a.css" crc="391776139" ref="index:g3---all-members:g3-about:g3---присоединиться:g3-project:g3---местные-рекорды:дело-01.-подозрение-на-использование-накрутки-в-kredoom"/>
     <file name="index.css" crc="81142811" ref="index"/>
-    <file name="g3---all-members.css" crc="30186084" ref="g3---all-members"/>
+    <file name="g3---all-members.css" crc="4031354934" ref="g3---all-members"/>
     <file name="g3-about.css" crc="54392174" ref="g3-about"/>
     <file name="g3---______________.css" crc="238275859" ref="g3---присоединиться"/>
     <file name="g3-project.css" crc="4249628382" ref="g3-project"/>
@@ -20,6 +20,8 @@
     <file name="amdrtg.svg" crc="4110386591"/>
     <file name="ttcommons-bold.woff" crc="3867701885"/>
     <file name="ttcommons-bold.eot" crc="4117541410"/>
+    <file name="ttcommons-thin.woff" crc="479408966"/>
+    <file name="ttcommons-thin.eot" crc="4181607310"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:g3---all-members:g3-about:g3---присоединиться:g3-project:g3---местные-рекорды:дело-01.-подозрение-на-использование-накрутки-в-kredoom"/>
@@ -31,8 +33,8 @@
     <file name="require.js" crc="3951022091" ref="index:g3---all-members:g3-about:g3---присоединиться:g3-project:g3---местные-рекорды:дело-01.-подозрение-на-использование-накрутки-в-kredoom"/>
   </folder>
   <folder name="images">
-    <file name="шаблон-a-favicon.ico" crc="6333720" ref="index:g3---местные-рекорды"/>
-    <file name="фывфывфывфывфваааа.png" crc="3818316378" ref="index:g3---местные-рекорды">
+    <file name="шаблон-a-favicon.ico" crc="6333720" ref="index:g3---местные-рекорды:g3---all-members"/>
+    <file name="фывфывфывфывфваааа.png" crc="3818316378" ref="index:g3---местные-рекорды:g3---all-members">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="g3---местные-рекорды" alt=""/>
@@ -46,13 +48,13 @@
       <caption webpage="index" alt=""/>
       <caption webpage="g3---местные-рекорды" alt=""/>
     </file>
-    <file name="1582033937_roy-lichtenstein_vsthemes_ru-11-u181-fr.png" crc="3983881215" ref="index:g3---присоединиться:g3---all-members"/>
-    <file name="gradient-grainy-gradient-texture-wallpaper_52683-63423-u198-fr.png" crc="79753781" ref="index:g3---присоединиться:g3---all-members"/>
+    <file name="1582033937_roy-lichtenstein_vsthemes_ru-11-u181-fr.png" crc="3983881215" ref="index:g3---присоединиться"/>
+    <file name="gradient-grainy-gradient-texture-wallpaper_52683-63423-u198-fr.png" crc="79753781" ref="index:g3---присоединиться"/>
     <file name="aaaaaaaa.png" crc="4229482758" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="dbtid_aachqzx4adzbzibcpy7p4xtzn3unxr-wcoe.png" crc="182420140" ref="index:g3---all-members">
+    <file name="dbtid_aachqzx4adzbzibcpy7p4xtzn3unxr-wcoe.png" crc="182420140" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="g3---all-members" alt=""/>
       <caption webpage="g3---all-members" alt=""/>
@@ -63,13 +65,13 @@
       <caption webpage="g3-about" alt=""/>
       <caption webpage="g3---all-members" alt=""/>
     </file>
-    <file name="youtube_full-color_icon_(2017)svg.png" crc="498741739" ref="g3---all-members">
+    <file name="youtube_full-color_icon_(2017)svg.png" crc="496293768" ref="g3---all-members">
       <caption webpage="g3---all-members" alt=""/>
       <caption webpage="g3---all-members" alt=""/>
       <caption webpage="g3---all-members" alt=""/>
       <caption webpage="g3---all-members" alt=""/>
     </file>
-    <file name="black.png" crc="370666776" ref="g3---all-members">
+    <file name="black.png" crc="4235078620" ref="g3---all-members">
       <caption webpage="g3---all-members" alt=""/>
     </file>
     <file name="unnamed.jpg" crc="291690102" ref="g3---all-members:g3-about">
@@ -91,7 +93,6 @@
       <caption webpage="g3---местные-рекорды" alt=""/>
       <caption webpage="g3---all-members" alt=""/>
     </file>
-    <file name="gradient-grainy-gradient-texture_79603-1642-u388-fr.jpg" crc="202141719" ref="g3---all-members"/>
     <file name="1582033937_roy-lichtenstein_vsthemes_ru-11.jpg" crc="3977334541" ref="g3-about">
       <caption webpage="g3-about" alt=""/>
     </file>
@@ -111,9 +112,11 @@
     </file>
     <file name="u738-4.png" crc="81485987" ref="дело-01.-подозрение-на-использование-накрутки-в-kredoom"/>
     <file name="u734-25.png" crc="246142828" ref="дело-01.-подозрение-на-использование-накрутки-в-kredoom"/>
+    <file name="1582033937_roy-lichtenstein_vsthemes_ru-11-u293-fr.png" crc="3983881215" ref="g3---all-members"/>
+    <file name="dbtid_aachqzx4adzbzibcpy7p4xtzn3unxr-wcoe-u803-fr.png" crc="12993354" ref="g3---all-members"/>
   </folder>
   <file name="index.html" crc="11734534" seo="true" mt="1642348713888" redirect="true"/>
-  <file name="g3---all-members.html" crc="4004946151" seo="true" mt="1642348713888" redirect="true"/>
+  <file name="g3---all-members.html" crc="4087245414" seo="true" mt="1652120496472" redirect="true"/>
   <file name="g3-about.html" crc="4252142101" seo="true" mt="1642348713888" redirect="true"/>
   <file name="g3---присоединиться.html" crc="3869263493" seo="true" mt="1642348713888" redirect="true"/>
   <file name="g3-project.html" crc="4112060724" seo="true" mt="1642348713888" redirect="true"/>
