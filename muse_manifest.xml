@@ -1,13 +1,18 @@
-<manifest alg="2" build="2017.0.4.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="g3.sq" resolutions="1x" timestamp="1642349383637">
+<manifest alg="2" build="2017.0.4.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="g3.sq" resolutions="1x" timestamp="1652119197705">
+  <folder name="assets">
+    <file name="без-имени.png" crc="480723689" seo="true" mt="1652118222000"/>
+    <file name="без-имени1.png" crc="127700429" seo="true" mt="1652118507000"/>
+  </folder>
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
-    <file name="master_______-a.css" crc="527262171" ref="index:g3---all-members:g3-about:g3---присоединиться:g3-project:g3---местные-рекорды"/>
+    <file name="master_______-a.css" crc="391776139" ref="index:g3---all-members:g3-about:g3---присоединиться:g3-project:g3---местные-рекорды:дело-01.-подозрение-на-использование-накрутки-в-kredoom"/>
     <file name="index.css" crc="81142811" ref="index"/>
     <file name="g3---all-members.css" crc="30186084" ref="g3---all-members"/>
     <file name="g3-about.css" crc="54392174" ref="g3-about"/>
     <file name="g3---______________.css" crc="238275859" ref="g3---присоединиться"/>
     <file name="g3-project.css" crc="4249628382" ref="g3-project"/>
-    <file name="g3---_______-_______.css" crc="4003291572" ref="g3---местные-рекорды"/>
+    <file name="g3---_______-_______.css" crc="480982506" ref="g3---местные-рекорды"/>
+    <file name="____-01_-__________-__-_____________-________-_-kredoom.css" crc="296224459" ref="дело-01.-подозрение-на-использование-накрутки-в-kredoom"/>
   </folder>
   <folder name="fonts">
     <file name="amdrtg.woff" crc="131856772"/>
@@ -17,23 +22,23 @@
     <file name="ttcommons-bold.eot" crc="4117541410"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:g3---all-members:g3-about:g3---присоединиться:g3-project:g3---местные-рекорды"/>
-    <file name="museutils.js" crc="4216313831" ref="index:g3---all-members:g3-about:g3---присоединиться:g3-project:g3---местные-рекорды"/>
-    <file name="whatinput.js" crc="86476730" ref="index:g3---all-members:g3-about:g3---присоединиться:g3-project:g3---местные-рекорды"/>
-    <file name="museconfig.js" crc="474374037" ref="index:g3---all-members:g3-about:g3---присоединиться:g3-project:g3---местные-рекорды"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:g3---all-members:g3-about:g3---присоединиться:g3-project:g3---местные-рекорды:дело-01.-подозрение-на-использование-накрутки-в-kredoom"/>
+    <file name="museutils.js" crc="4216313831" ref="index:g3---all-members:g3-about:g3---присоединиться:g3-project:g3---местные-рекорды:дело-01.-подозрение-на-использование-накрутки-в-kredoom"/>
+    <file name="whatinput.js" crc="86476730" ref="index:g3---all-members:g3-about:g3---присоединиться:g3-project:g3---местные-рекорды:дело-01.-подозрение-на-использование-накрутки-в-kredoom"/>
+    <file name="museconfig.js" crc="474374037" ref="index:g3---all-members:g3-about:g3---присоединиться:g3-project:g3---местные-рекорды:дело-01.-подозрение-на-использование-накрутки-в-kredoom"/>
     <file name="jquery.musepolyfill.bgsize.js" crc="4110862005" ref="index:g3---all-members:g3-about:g3---присоединиться:g3-project:g3---местные-рекорды"/>
-    <file name="jquery.watch.js" crc="460461809" ref="index:g3---all-members:g3-about:g3---присоединиться:g3-project:g3---местные-рекорды"/>
-    <file name="require.js" crc="3951022091" ref="index:g3---all-members:g3-about:g3---присоединиться:g3-project:g3---местные-рекорды"/>
+    <file name="jquery.watch.js" crc="460461809" ref="index:g3---all-members:g3-about:g3---присоединиться:g3-project:g3---местные-рекорды:дело-01.-подозрение-на-использование-накрутки-в-kredoom"/>
+    <file name="require.js" crc="3951022091" ref="index:g3---all-members:g3-about:g3---присоединиться:g3-project:g3---местные-рекорды:дело-01.-подозрение-на-использование-накрутки-в-kredoom"/>
   </folder>
   <folder name="images">
     <file name="шаблон-a-favicon.ico" crc="6333720" ref="index:g3---местные-рекорды"/>
     <file name="фывфывфывфывфваааа.png" crc="3818316378" ref="index:g3---местные-рекорды">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="g3-about" alt=""/>
-      <caption webpage="g3-about" alt=""/>
       <caption webpage="g3---местные-рекорды" alt=""/>
       <caption webpage="g3---местные-рекорды" alt=""/>
+      <caption webpage="g3-about" alt=""/>
+      <caption webpage="g3-about" alt=""/>
       <caption webpage="g3---all-members" alt=""/>
       <caption webpage="g3---all-members" alt=""/>
     </file>
@@ -83,8 +88,8 @@
       <caption webpage="g3---all-members" alt=""/>
     </file>
     <file name="unnam1ed.jpg" crc="4047686010" ref="g3---all-members:g3---местные-рекорды">
-      <caption webpage="g3---all-members" alt=""/>
       <caption webpage="g3---местные-рекорды" alt=""/>
+      <caption webpage="g3---all-members" alt=""/>
     </file>
     <file name="gradient-grainy-gradient-texture_79603-1642-u388-fr.jpg" crc="202141719" ref="g3---all-members"/>
     <file name="1582033937_roy-lichtenstein_vsthemes_ru-11.jpg" crc="3977334541" ref="g3-about">
@@ -104,11 +109,14 @@
       <caption webpage="g3---местные-рекорды" alt=""/>
       <caption webpage="g3---местные-рекорды" alt=""/>
     </file>
+    <file name="u738-4.png" crc="81485987" ref="дело-01.-подозрение-на-использование-накрутки-в-kredoom"/>
+    <file name="u734-25.png" crc="246142828" ref="дело-01.-подозрение-на-использование-накрутки-в-kredoom"/>
   </folder>
   <file name="index.html" crc="11734534" seo="true" mt="1642348713888" redirect="true"/>
   <file name="g3---all-members.html" crc="4004946151" seo="true" mt="1642348713888" redirect="true"/>
   <file name="g3-about.html" crc="4252142101" seo="true" mt="1642348713888" redirect="true"/>
   <file name="g3---присоединиться.html" crc="3869263493" seo="true" mt="1642348713888" redirect="true"/>
   <file name="g3-project.html" crc="4112060724" seo="true" mt="1642348713888" redirect="true"/>
-  <file name="g3---местные-рекорды.html" crc="3779545855" seo="true" mt="1642349378459" redirect="true"/>
+  <file name="g3---местные-рекорды.html" crc="35111724" seo="true" mt="1652119194383" redirect="true"/>
+  <file name="дело-01.-подозрение-на-использование-накрутки-в-kredoom.html" crc="153829372" seo="true" mt="1652119184467" redirect="true"/>
 </manifest>
